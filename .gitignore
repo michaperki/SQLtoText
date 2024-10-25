@@ -1,2 +1,5 @@
 
 venv/
+cache/
+model/
+__pycache__/

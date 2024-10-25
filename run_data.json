@@ -1,0 +1,191 @@
+[
+    {
+        "config": {
+            "model_name": "t5-small",
+            "batch_size": 32,
+            "max_length": 128,
+            "learning_rate": 3e-05,
+            "epochs": 1,
+            "gradient_accumulation_steps": 1,
+            "beam_size": 2,
+            "repetition_penalty": 1.5,
+            "temperature": 0.6,
+            "early_stopping": true,
+            "gpu_available": true,
+            "sample_size": 100,
+            "cache_dir": "./cache",
+            "model_dir": "./model",
+            "logging_level": 20,
+            "warmup_steps": 10,
+            "reuse_model": false,
+            "run_name": "minimal_test_20241025_171950",
+            "run_data_path": "run_data.json",
+            "eval_output_file": "predictions.txt",
+            "save_checkpoints": true
+        },
+        "train_losses": [
+            6.2929065227508545
+        ],
+        "final_val_loss": 5.435735106468201,
+        "timestamp": "2024-10-25 17:20:51"
+    },
+    {
+        "config": {
+            "model_name": "t5-small",
+            "batch_size": 32,
+            "max_length": 128,
+            "learning_rate": 3e-05,
+            "epochs": 1,
+            "gradient_accumulation_steps": 1,
+            "beam_size": 2,
+            "repetition_penalty": 1.5,
+            "temperature": 0.6,
+            "early_stopping": true,
+            "gpu_available": true,
+            "sample_size": 100,
+            "cache_dir": "./cache",
+            "model_dir": "./model",
+            "logging_level": 20,
+            "warmup_steps": 10,
+            "reuse_model": false,
+            "run_name": "minimal_test_20241025_172533",
+            "figures_dir": "./figures",
+            "run_data_path": "run_data.json",
+            "eval_output_file": "predictions.txt",
+            "save_checkpoints": true
+        },
+        "train_losses": [
+            6.444518327713013
+        ],
+        "final_val_loss": 5.438944905996323,
+        "timestamp": "2024-10-25 17:26:29"
+    },
+    {
+        "config": {
+            "model_name": "t5-small",
+            "batch_size": 32,
+            "max_length": 128,
+            "learning_rate": 3e-05,
+            "epochs": 1,
+            "gradient_accumulation_steps": 1,
+            "beam_size": 2,
+            "repetition_penalty": 1.5,
+            "temperature": 0.6,
+            "early_stopping": true,
+            "gpu_available": true,
+            "sample_size": 100,
+            "cache_dir": "./cache",
+            "model_dir": "./model",
+            "logging_level": 20,
+            "warmup_steps": 10,
+            "reuse_model": false,
+            "run_name": "minimal_test_20241025_173009",
+            "figures_dir": "./figures",
+            "logs_dir": "./logs",
+            "run_data_path": "run_data.json",
+            "eval_output_file": "predictions.txt",
+            "save_checkpoints": true
+        },
+        "train_losses": [
+            6.3237468004226685
+        ],
+        "final_val_loss": 5.437026888132095,
+        "timestamp": "2024-10-25 17:31:08"
+    },
+    {
+        "config": {
+            "model_name": "t5-small",
+            "batch_size": 32,
+            "max_length": 128,
+            "learning_rate": 3e-05,
+            "epochs": 1,
+            "gradient_accumulation_steps": 1,
+            "beam_size": 2,
+            "repetition_penalty": 1.5,
+            "temperature": 0.6,
+            "early_stopping": true,
+            "gpu_available": true,
+            "sample_size": 100,
+            "cache_dir": "./cache",
+            "model_dir": "./model",
+            "logging_level": 20,
+            "warmup_steps": 10,
+            "reuse_model": false,
+            "run_name": "minimal_test_20241025_173438",
+            "figures_dir": "./figures",
+            "logs_dir": "./logs",
+            "run_data_path": "run_data.json",
+            "eval_output_file": "predictions.txt",
+            "save_checkpoints": true
+        },
+        "train_losses": [
+            6.108005404472351
+        ],
+        "final_val_loss": 5.435049965977669,
+        "timestamp": "2024-10-25 17:35:34"
+    },
+    {
+        "config": {
+            "model_name": "t5-small",
+            "batch_size": 32,
+            "max_length": 128,
+            "learning_rate": 3e-05,
+            "epochs": 1,
+            "gradient_accumulation_steps": 1,
+            "beam_size": 2,
+            "repetition_penalty": 1.5,
+            "temperature": 0.6,
+            "early_stopping": true,
+            "gpu_available": true,
+            "sample_size": 100,
+            "cache_dir": "./cache",
+            "model_dir": "./model",
+            "logging_level": 20,
+            "warmup_steps": 10,
+            "reuse_model": false,
+            "run_name": "minimal_test_20241025_173650",
+            "figures_dir": "./figures",
+            "logs_dir": "./logs",
+            "run_data_path": "run_data.json",
+            "eval_output_file": "predictions.txt",
+            "save_checkpoints": true
+        },
+        "train_losses": [
+            6.273516416549683
+        ],
+        "final_val_loss": 5.435093566775322,
+        "timestamp": "2024-10-25 17:37:49"
+    },
+    {
+        "config": {
+            "model_name": "t5-small",
+            "batch_size": 32,
+            "max_length": 128,
+            "learning_rate": 3e-05,
+            "epochs": 1,
+            "gradient_accumulation_steps": 1,
+            "beam_size": 2,
+            "repetition_penalty": 1.5,
+            "temperature": 0.6,
+            "early_stopping": true,
+            "gpu_available": true,
+            "sample_size": 100,
+            "cache_dir": "./cache",
+            "model_dir": "./model",
+            "logging_level": 20,
+            "warmup_steps": 10,
+            "reuse_model": false,
+            "run_name": "minimal_test_20241025_173915",
+            "figures_dir": "./figures",
+            "logs_dir": "./logs",
+            "run_data_path": "run_data.json",
+            "eval_output_file": "predictions.txt",
+            "save_checkpoints": true
+        },
+        "train_losses": [
+            6.507947206497192
+        ],
+        "final_val_loss": 5.440498635172844,
+        "timestamp": "2024-10-25 17:40:06"
+    }
+]

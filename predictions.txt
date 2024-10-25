@@ -1,0 +1,2169 @@
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Opponent = "Ja" AND Attendance = "plugin"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Opponent = "new orleans saints"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Attendance = "5"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Opponent = "south melbourne"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Attendance = "buffalo"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Attendance = "junction oval"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Date = "philippines" AND Opponent!= "0"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Opponent = "10 april"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Result!= "1" AND Opponent = "2010"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Date = "France" AND Opponent = "Accounting" AND Result!= "6"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Opponent!= "2000" AND Week = "peeking heights"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Week = "elkjs"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Week!= "17"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Attendance = "50 films 50 televised"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Opponent = "86-96"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Attendance = "30"
+
+SQL: SELECT * WHERE Format = "yes" AND Notes = "session" AND Current series = "plugin"
+Generated Question: SELECT * WHERE Week = "112"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Result = "icabad crane"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Date = "walmart"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Date = "Pohang Steelyard"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Attendance = "cleveland indians" AND Result!= "1931"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Week!= "2" AND Result = "running back"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Date = "0" AND Attendance = "0" AND Week = "pahang fa"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Result!= "66" AND Week!= "3" AND Attendance = "3rd"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Opponent = "4"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Attendance = "Karen Felix and Don Woodard"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Result = "4 - 4"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Date = "exeter city"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Week = "britton johnsen"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Result = "documentaries"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Opponent = "junior"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Opponent = "kansas city chiefs"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Week!= "31"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Result = "290"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Date = "3rd"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Datum = "March 1945"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Opponent!= "2"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Attendance = "baltimore ravens"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Opponent = "haiti"
+
+SQL: SELECT * WHERE Format = "new orleans saints"
+Generated Question: SELECT * WHERE Attendance = 8"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Opponent!= "170" AND Date = "56 kg" AND Result!= "145"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Week!= "2000"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Result = "87-92"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Week = "2"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Opponent = "apbo 0280"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Opponent = "bi-lo center" AND Attendance!= "2000"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Week = "Hawaii"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Result = "71"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Week = "january 10"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Date!= "9" AND Result = "buck mystrom"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Attendance = "freshman"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Opponent = "northwestern"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Week = "january 15"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Date!= "20" AND Result!= "1238" AND Opponent = "45"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Attendance = "Wilfrid Laurier"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Week = "Oral Roberts"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Result = "Ja" AND Date = "human"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Opponent = "partizan belgrade" AND Week!= "4"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Date = "muljadi"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Result = "1965" AND Opponent!= "7103"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Week = "Georgia 1"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Attendance = "aaaa" AND Opponent = "spartans"
+
+SQL: SELECT * WHERE Current series = "5"
+Generated Question: SELECT * WHERE Date = "gp2 series"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Attendance = "b" AND Result = "ferrari 050 ferrari 051"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Attendance = "private" AND Date = "mountaineers"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Attendance = "158" AND Result!= "52"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Date = "21"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Date = "final"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Attendance!= "112"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Opponent = "5c"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Week!= "10"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Opponent!= "11" AND Result = "accident"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Opponent = 22
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Opponent = "Purdue"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Result = "defensive tackle" AND Opponent = "lorenzo freeman"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Opponent = "minnesota vikings"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Week = "53"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Attendance = "petrol engines"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Result!= "27"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Opponent = "10"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Opponent = "pegasus" AND Week = "7318a"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Result = "everton"
+
+SQL: SELECT * WHERE Format = "south melbourne"
+Generated Question: SELECT * WHERE Result = "away" AND Week!= "6"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "boy"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "boulder"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "rosenborg"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "1988"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "5" AND Date = "Worcestershire"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "south australia"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result!= "38"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "Warminster"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance!= "229" AND Result = "440"
+
+SQL: SELECT *
+Generated Question: SELECT *
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "march 31" AND Attendance = "february 17" AND Week!= "2011"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "1964 summer olympics" AND Week = "october 18"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "13"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "al mahrah"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "Cardio Workout"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "2"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "kendallville"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "az7570028582"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "14"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "Samuel Smith"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "ali asghar modir roosta"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "gianluca vialli"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance!= "338"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result!= "5" AND Opponent!= "20"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "rocco mediate"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "new york" AND Result = "79-75"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Opponent = "10 4"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Opponent = "Washington"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Date = "bcs national championship"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Opponent = "australia" AND Date = "craig parry"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Opponent = "miami dolphins"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Week = "melton south"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Week = "haugesund"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Date = "Julia Bermejo"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Date = "149"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Date = "maserati" AND Attendance = "2"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Date = "liverpool"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Attendance = "0" AND Opponent = "purple team"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Week = "1865"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Date = "narain karthikeyan"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Week = "12 november 2005"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Result = "shens gamo"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Date = "billy bonds"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Week = "1963"
+
+SQL: SELECT * WHERE Notes = "63"
+Generated Question: SELECT * WHERE Opponent!= "34"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Date = "8"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Opponent!= "0"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Result = "hard"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Attendance = "amy alcott"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Attendance!= "17" AND Result!= "1" AND Opponent!= "1"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Date = "GP3 Series"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Week = "Rick Stetler"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Week = "19"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Week = "middlesbrough"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Week = "28 may"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Date = "mediterrane Spiele" AND Week!= "2005"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Attendance = 24421
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Date = "505"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Opponent = "collingwood"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Week = "Maryland 7"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Result = "running back"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Week = "factor v deficiency"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Result = "canada" AND Opponent = "goalie"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Result!= "4"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Result = "alco" AND Date = "csa-2"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Week = "South Carolina 4"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Week = "f10"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Attendance = "direito" AND Result!= "21" AND Date = "lock"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Attendance = "6" AND Result!= "128"
+
+SQL: SELECT * WHERE Current series = "buffalo"
+Generated Question: SELECT * WHERE Opponent = "49"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Week = "horrid henry"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Week = "april 1"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Date = "march 30"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Attendance = "way down"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Opponent = "6 hours"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Date = "sam snead"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Date = "ed snn"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Opponent = "1986" AND Week = "1"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Result = "crewe alexandra"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Attendance = "greece" AND Date = "aeschylus"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Attendance = "Jackson Gillis"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Week = "greg norman"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Week = "chukwubuikem maduabuchi"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Opponent = "22 july"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Week = "v grand prix de paris"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Date = "April 6"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Result = "indian"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Result = "1r" AND Date = "2r"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Week = "290"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Week = "4"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Result = "roots and branches"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Week = "pga championship" AND Opponent!= "1"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Attendance = "4-3-6"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Result = "rotax max" AND Date = "rotax heavy" AND Opponent = "arrow" AND Week = "twr raceline seating"
+
+SQL: SELECT * WHERE Current series = "junction oval"
+Generated Question: SELECT * WHERE Date = "4"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Attendance = "15-12-4" AND Week!= "31"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Opponent = 7
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Week!= "1"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Date = "rockets"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Date = "zimbabwe" AND Attendance!= "5"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Week = "3"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Date!= "28"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Week = "norwegen"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Result = "372"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Attendance = "yuji tachikawa" AND Week = "1"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Date = "world championships" AND Result = "2nd"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Week = "37"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Result = "boniface of montferrat"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Attendance!= "15" AND Result!= "2" AND Date = "0" AND Opponent = "1"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Week = "tom norton"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Week = "2010"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Week = "2006-07"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Week = "charles"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Opponent = "arn"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Opponent = "2r" AND Attendance = "0-0"
+
+SQL: SELECT * WHERE Text/background colour = "philippines" AND Format != "0"
+Generated Question: SELECT * WHERE Result!= "5" AND Opponent = "sweden"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Attendance = "257" AND Result!= "19"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Attendance!= "16"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Attendance = "in progress"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Date = "milan" AND Attendance = "6th in serie a"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Result!= "97"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Opponent!= "80" AND Week = "bruce mclaren"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Datum = "20. März 1998"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Week = "t2" AND Opponent = "united states"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Opponent = "oakland"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Attendance = "album" AND Week!= "1986"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Result = "1327"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Result = 289
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Week = "2000" AND Attendance = "nominated"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Attendance = "victoria park"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Attendance = "1766390"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Week = "lager 1" AND Attendance!= "336"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Week = "3"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Opponent = "225"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Date!= "1"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Opponent = "melbourne"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Date = "boar"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Opponent!= "0"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Week = "14"
+
+SQL: SELECT * WHERE Format = "10 april"
+Generated Question: SELECT * WHERE Week = "5270"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result!= "15" AND Opponent!= "197" AND Week = "saint lucia" AND Attendance!= "50"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance!= "36" AND Date = "bob holden motors" AND Opponent = "7"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "6"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "Super Callanetics"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "20"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "my thursday night movie"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week!= "1960"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "seattle supersonics"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "79"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "1"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "away"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "united states" AND Date = "hale irwin"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result!= "2" AND Week!= "1973" AND Attendance!= "0"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance!= "13"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "Marc Deschamps"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "Smoky Lake County"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "Sussex"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "vela"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "CITV"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "e" AND Date = "mark wiebe"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "united states" AND Attendance = "concord hs"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "2008" AND Date = "carolina 1"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "cf" AND Attendance = "1973-08-21"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "8 October 2008"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "10" AND Attendance = "11"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "international friendly"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "26."
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "2006-2009" AND Opponent = "5-speed manual"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "Solydo"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "september 28"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "2-8-2t" AND Attendance!= "1911"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "appam"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "purple sea urchin"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "burkina faso"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "cd" AND Attendance = "32xa-119"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date!= "1" AND Opponent = "ford" AND Result = "155"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "jiangzhou arch"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result!= "30" AND Week!= "10"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "5" AND Week!= "2"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "1" AND Attendance!= "16"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "spiral galaxy" AND Opponent = "pegasus" AND Week = "7337"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "nick zito" AND Attendance = "34-1"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "9th"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "deborah meaden"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent!= "60" AND Result = "spun off"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result!= "9" AND Opponent!= "24" AND Date = "vancouver burrards"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "clay"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "3 de Febrero"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "essendon"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "4" AND Result!= "0"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "footscray"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "15"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "Illinois Wesleyan"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "Ethiopia"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent!= "13" AND Date = "minardi team usa"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "ray drew"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "2012 Clausura"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result!= "22"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "nov 2007"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "1999"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Week = "Jordan Coleman"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Result = "skipum"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Week = "9 September 2006"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Date = "country driving"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Opponent = "Darren Manning"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Opponent = "593"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Result = "1" AND Attendance!= "5"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Attendance = "vanderbilt"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Date = "M-net"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Result = "133"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Result = "Lew Schneider"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Week = "barry rfc"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Week = "4"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Attendance = "detroit red wings"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Week = "runner-up"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Result = 288
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Attendance = "2002" AND Week!= "41"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Date = "bob may"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Date!= "0"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Date = "Silas"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Week = "italy"
+
+SQL: SELECT * WHERE Current slogan != "1" AND Format = "2010"
+Generated Question: SELECT * WHERE Week = "3"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "junior race"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "varna" AND Result = "ticha stadium"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "chicago cardinals" AND Week!= "10"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "friendly" AND Week = "7 june 1999"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "conservative" AND Week = "1852"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "0" AND Attendance!= "3"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "52-54"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "sweden"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "CHAN"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week!= "30" AND Result = "ol"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "scarborough"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "australian open"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "1" AND Opponent = "2"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Datum = "09. Februar"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "dublin"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "august 1996"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "t2" AND Date = "steve flesch"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent!= "30"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "stadion mladina"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "holland"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week!= "2"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "beverly heights"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date!= "1997"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Result = "accident"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Week!= "6" AND Result!= "0"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Date!= "2" AND Attendance!= "1"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Date = "kvtv"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Opponent = "bill hewitt"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Opponent = "1063" AND Result!= "119"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Week = "Miami Masters"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Week = "Guadalupe Viejo"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Week = "53"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Attendance = "diesel" AND Date = "orion" AND Week = "2005"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Attendance = "2012"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Opponent!= "30" AND Week = "sail"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Attendance = "22 july 1461 became queen"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Week!= "6" AND Opponent = "kenneth green"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Date = "14 april 2013"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Week!= "11"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Date = "lepenec" AND Opponent = "11 oktomvri"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Result = "970"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Week = "Shirley Fry Irvin"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Opponent!= "31"
+
+SQL: SELECT * WHERE Text/background colour = "france" AND Format = "accounting" AND Current slogan != "6"
+Generated Question: SELECT * WHERE Week!= "1953"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Week!= "8"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Date = "katarina radonic"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Week = "Florida 14"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Attendance!= "560" AND Result!= "6" AND Date = "3"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Result!= "0" AND Week = "7"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Result = "g" AND Opponent = "petron blaze boosters"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Attendance = "Doncaster Rovers"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Date = "Matt Ware"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Attendance!= "0" AND Result!= "0" AND Week!= "2"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Opponent = "Centre" AND Attendance = "Calgary Flames"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Attendance = "duk-hee lee"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Week = "may 31"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Attendance = "south korea"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Date = "fk bratstvo"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Attendance!= "11"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Result!= "290"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Date = "mornings with neil mitchell"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Week = "2010-11"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Week = "ABS-CBN TV-32 Tagaytay"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Week = "North East England"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Week = "41"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Attendance = "21"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Attendance = "Koichi Sakaguchi"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Date = "barbora vojtusova"
+
+SQL: SELECT * WHERE Format != "2000" AND State/territory = "peeking heights"
+Generated Question: SELECT * WHERE Result = "cd"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Date = "sf"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Date = "Steve Chabot"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Date = "clemson"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Attendance = "boys swimming" AND Result = "albuquerque"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Attendance = "Fermoy" AND Result = "Ballynoe"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Result!= "1"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Week = "snp" AND Result!= "46"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Date = "fsn new england" AND Week = "2004-05"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Result = "wide receiver"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Result = "4" AND Date!= "28"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Week = "leon patton" AND Result!= "45"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Opponent = "1982"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Date = "pbt2"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Result = "gelbe Mannschaft" UND Datum = "foos it or lose it"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Opponent = "-2"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Week = "w224bn"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Week = "cardiff blues" AND Opponent!= "14"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Opponent = "usa"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Date = "2006"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Result = "marek dupnitsa"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Attendance = "15"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Week = "6" AND Attendance!= "1"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Attendance = "1997"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Attendance = "cary joji fukunaga"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Week = "Bloomington High School North"
+
+SQL: SELECT * WHERE State/territory = "elkjs"
+Generated Question: SELECT * WHERE Date = "November 7"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Date = "Philippe Gilbert"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Attendance = "unknown"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Date!= "19"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Attendance = "7." AND Opponent = "reynard 95i"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Opponent = "Peter McGlashan"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Week = "fairview"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Attendance = "58"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Attendance = "20 years" AND Opponent = "home and away"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Attendance!= "2" AND Opponent = "20" AND Week = "max biaggi"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Opponent = "kawasaki zx10 1000cc"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Opponent = "Katowice"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Date = "Zolder"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Opponent!= "2006" AND Week = "ita" AND Result!= "0"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Result = "wild asia" AND Opponent = "2000"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Attendance = "Madurai"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Opponent!= "9"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Date = "terence morris"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Opponent = "sony music direct"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Attendance = "vfl park"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Week = "Total"
+
+SQL: SELECT * WHERE Notes = "11-6-0" AND State/territory != "17"
+Generated Question: SELECT * WHERE Opponent = "united states"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Attendance = "4"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Result = "maserati" AND Date = "owen racing organisation"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Attendance = "1" AND Date = "lithuania"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Date = "20 july 2008"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Date = "Ajax" AND Result = "Twente"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Date!= "0"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Week = "8" AND Attendance = "3x17"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Date!= "2" AND Opponent = "5" AND Result!= "0"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Opponent = "cargo ship" AND Week = "4 feb 16"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Attendance = "Fergie"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Week = "4"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Date = "November 20"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Week = "41"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Opponent = "robert mckimson" AND Week = "wet hare"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Week = "109"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Result = "indiana" AND Opponent = "west lafayette"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Opponent!= "535"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Date = "maserati" AND Attendance!= "6"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Result = "h" AND Date = "semi-finals second leg"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Attendance = "541380"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Date = "bedford"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Result!= "285"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Opponent = "at atlanta falcons"
+
+SQL: SELECT * WHERE Current series = "50 films 50 televised"
+Generated Question: SELECT * WHERE Week = "1964"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Date = "andreas kiligkaridis"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Opponent!= "923"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Date = "Zolder"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Attendance = "158" AND Result!= "362"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Week = "2008-06-28"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Opponent = "1" AND Attendance!= "5"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Date = "14"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Attendance!= "3" AND Result!= "2"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Result!= "2007" AND Attendance = "2008"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Week = "gala"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Week = "Deliblato"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Week = "2008 warrington wolves" AND Date!= "7"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Date = "10"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Attendance = "montana"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Date = "Sylvia Lim Swee Lian"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Date = "spvgg bayreuth" AND Attendance = "eintracht trier"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Date = "sirapatara kalayapanid"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Opponent = "0" AND Week!= "3"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Attendance!= "4719" AND Result = "v8" AND Week = "ghibli ss"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Opponent!= "35" AND Attendance!= "10"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Opponent = "yasuhito namekawa" AND Result = "decision"
+
+SQL: SELECT * WHERE Format = "86-96"
+Generated Question: SELECT * WHERE Attendance = "pl group b" AND Result = "2-2"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Date = "salford ii"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Opponent = "german"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Result!= "6"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Opponent = "Tied for Lead" AND Attendance = "5 strokes"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Date = "2"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Result = "0" AND Opponent = "1"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Date = "Gloucestershire"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Opponent = "fiji"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Attendance = "1247" AND Result!= "0"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Result = "john bromwich frank sedgman"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Week = "tyrendarra" AND Date!= "10"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Week = "reteconomy"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Opponent!= "2"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Week = "win" AND Attendance = "extreme fighting 1"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Opponent = "3-2" AND Date!= "3"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Date = "chicago"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Date = "david graham"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Opponent = "colin hodgson"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Attendance = "waverley park" AND Week = "hawthorn"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Opponent = "1000"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Attendance!= "0"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Week!= "1959" AND Opponent = "climax l4"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Attendance = "ward cornell" AND Result = "bob goldham"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: SELECT * WHERE Week!= "2002"
+
+SQL: SELECT * WHERE Notes = "niki lauda"
+Generated Question: * WHERE Week = "cantare"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Week = "t5"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Week = "North American record"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Week = "may 30"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Result = "2"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Week!= "2010" AND Date = "world race walking cup"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Result = "2013-09-03"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Date = "d"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Opponent = "wataru sakata"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Opponent = "e"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Date = "südkorea" AND Result!= "0"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Attendance = "western oval"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Opponent = "united states" AND Date = "lee trevino"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Attendance = "2012-13"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Opponent = "Washington"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Date = "tsuneyuki nakajima"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Week!= "8" AND Opponent!= "16" AND Result = "harry gilmer"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Opponent = "Jim White"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Opponent = "Kevan George"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Date = "British F3 National Class"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Date = "Joseph Vance"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Attendance = "36" AND Result!= "114"
+
+SQL: SELECT * WHERE Notes = "Travis Brown"
+Generated Question: SELECT * WHERE Date = "mi-10r"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "1"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "charley barnes" AND Date!= "3"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "huntsville" AND Attendance = "von braun center"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week!= "1983" AND Result = "14-28"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "12"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "4"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result!= "18" AND Week = "14"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance!= "9" AND Date = "equipe rosier"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "florianopolis"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "conservative" AND Week = "1837"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "Anomic aphasia"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "zrinka muhek"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "nasa"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "0"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "1985"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week!= "0" AND Result!= "1"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "42nd"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "big red"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "fitzroy"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "Maksim Botin"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent!= "16" AND Result = "accident" AND Date = "yamaha yzf-r6" AND Attendance = "10"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "Fremantle"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "god knows my journey"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "suffolk university"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "3-4"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week!= "2009" AND Date = "digi wwwow awards"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "dean whitehead"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "23"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "zolder"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "31"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week!= "8" AND Opponent = "highland"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "Patrioten"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "362"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "Sele Borovnica"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "ohio" AND Week = "joseph vance" AND Result = "democratic-republican"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "2006"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "victoria park"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "mile high stadium"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "best actress"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "matthias merz"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "Clearwater"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "bob anderson"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "Norberto Barba"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "Ja"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "united states" AND Attendance = "montana"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent!= "0"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "Seoul"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "Centre" AND Date = "Russ Wiechnik"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "7-23" AND Week!= "1960"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "1944"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "Garryduff"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "2011"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "scrubs"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "Nina Carberry"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "Harder To Breathe"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "Democratic" AND Date = "Frank Chelf"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "1962"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "panama city" AND Date = "11 febrero 2006"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "26"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "nord melbourne"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "omar arellano"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "angelo massimino"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "3" AND Date = "24-9"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "5"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "glenferrie oval"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week!= "10" AND Opponent = "chicago bears"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "michael russell"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "1975-05-21"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result!= 3
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Date = "April 3"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Week = "6"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Week = "1997"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Result = "Galatasaray"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Opponent = "buffalo bills"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Week!= "4" AND Attendance = "city stadium"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Attendance!= "1"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Week = "arsenal"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Opponent = "rochester" AND Week = "game 2"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Date = "de"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Opponent = "nathan barrett" AND Week!= "8"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Week = "suffolk university"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Result = "animated series"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Opponent = "2x 512 kb" AND Attendance = "11x" AND Result = "128-bit"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Date = "november 26"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Opponent = "Marseille"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Attendance!= "11"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Result = "larry seiple"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Week = "Woensdrecht"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Attendance!= "4"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Result = "michael mcdowell" AND Attendance = "billy leslie"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Opponent!= "1"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Result = "1939"
+
+SQL: SELECT * WHERE Current series = "30"
+Generated Question: SELECT * WHERE Week = "Kentucky 2nd"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Date = "canada"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Week = "Scotland"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Date = "north carolina"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Week!= "2" AND Attendance!= "3"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Date = "Use Somebody"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Opponent = "freddie mitchell"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Result = "linebacker" AND Date!= "245" AND Week = "6"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Opponent = "Tim Latham"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT *
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Date = "9" AND Opponent!= "0"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Attendance!= "2"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Date = "cooper car company" AND Week!= "1959"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Week = "a storm of swords"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Attendance = "0-3" AND Result = "0-5"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Week = "2000" AND Opponent = "dallara"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Week!= "9"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Opponent = "jaguars"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Date = "cbc" AND Week!= "1961"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Week = "Washington"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Date = "Saxby Chambliss"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Week = "4 1-04"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Week!= "1961" AND Opponent = "climax l4"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Week = "French Super Series"
+
+SQL: SELECT * WHERE State/territory = "112"
+Generated Question: SELECT * WHERE Week = "frankfurt"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result!= "317" AND Attendance!= "3" AND Week!= "2"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "tachi palace fights 3"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "Team Dennis Conner"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "march 21"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "mcg"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "29-36"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "1976"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "1986" AND Attendance!= "6"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date!= "1922"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "Phoenix"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "Leslie Hill"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "february 9"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance!= "60"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "6-5" AND Attendance = "junior"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week!= "9"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "1955-04-02"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "time trial details"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "0" AND Result = "47"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "virginia tech"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "Geninho"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "call to arms i"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "dawan moss" AND Attendance!= "0"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "minnesota vikings" AND Opponent = "xxx"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "Stacy"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "4"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "1984"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "Toronto Maple Leafs"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "24" AND Attendance = "9"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "surveyusa"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "december 31"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "baden"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "4"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "berlin" AND Attendance = "0-3"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "quebec"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "fly-half" AND Attendance = "munster"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "roger enever"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "henry picard"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance!= "18"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "7. BW attached to 43rd SW"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "robert mckimson" AND Week = "mice follies"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "Centre"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = 7"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "3" AND Result!= "0"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "1998" AND Result = "city beat"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "al-ismaily"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "broomstones" AND Opponent!= "1999"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "outside zones" AND Attendance = "outside zones" AND Week = "waltham cross"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "texas el-paso"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "april 12"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "10"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week!= "2008"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "comiskey park" AND Result = "4th"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "w237br"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "6" AND Attendance!= "6"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week!= "7" AND Date = "punia"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "mike weir"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "New York 10"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "shah alam stadium"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "united states" AND Attendance = "los angeles lakers"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "74536" AND Attendance!= "5869"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Week = "Norcross"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date!= "1571" AND Result!= "46"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent!= "51"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "22"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "Indy F3 Challenge" AND Attendance = "John Martin"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "Linroy Bottoson"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "94000"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance!= "22" AND Week!= "8"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Result = "Amway Arena"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent = "0" AND Date!= "0"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Opponent!= "28"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Date = "april 16"
+
+SQL: SELECT *
+Generated Question: SELECT * WHERE Attendance = "9"
+

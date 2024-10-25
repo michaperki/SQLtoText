@@ -1,0 +1,29 @@
+2024-10-25 17:39:15,317 - INFO - Log file created at: ./logs\training_log_20241025_173915.txt
+2024-10-25 17:39:15,317 - INFO - Running with configuration: minimal_test_20241025_173915
+2024-10-25 17:39:15,318 - INFO - Using device: cuda
+2024-10-25 17:39:15,318 - INFO - Loading model and tokenizer...
+2024-10-25 17:39:15,721 - INFO - Training model from scratch...
+2024-10-25 17:39:16,646 - INFO - Execution time for load_or_train_model_and_tokenizer: 1.33 seconds
+2024-10-25 17:39:16,646 - INFO - Loading dataset...
+2024-10-25 17:39:17,641 - INFO - Looking for cached dataset at: ./cache\tokenized_dataset_100.arrow
+2024-10-25 17:39:17,642 - INFO - Loading tokenized dataset from cache...
+2024-10-25 17:39:17,670 - INFO - Successfully loaded from cache!
+2024-10-25 17:39:17,673 - INFO - Execution time for load_and_preprocess_dataset: 1.03 seconds
+2024-10-25 17:39:17,675 - INFO - Starting epoch 1/1...
+2024-10-25 17:39:24,450 - INFO - Epoch 1 completed. Avg train loss: 6.5079
+2024-10-25 17:39:24,801 - INFO - Model saved to directory.
+2024-10-25 17:39:24,802 - INFO - Checkpoint saved for epoch 1
+2024-10-25 17:39:24,802 - INFO - Execution time for train_model: 7.13 seconds
+2024-10-25 17:39:25,252 - INFO - Model saved to directory.
+2024-10-25 17:39:25,253 - INFO - Model saved successfully.
+2024-10-25 17:39:25,254 - INFO - Evaluating model...
+2024-10-25 17:39:26,614 - INFO - Evaluation progress: 0%
+2024-10-25 17:39:34,252 - INFO - Evaluation progress: 19%
+2024-10-25 17:39:43,058 - INFO - Evaluation progress: 38%
+2024-10-25 17:39:50,495 - INFO - Evaluation progress: 56%
+2024-10-25 17:39:58,650 - INFO - Evaluation progress: 75%
+2024-10-25 17:40:06,415 - INFO - Evaluation progress: 94%
+2024-10-25 17:40:06,942 - INFO - Evaluation complete.
+2024-10-25 17:40:06,942 - INFO - Execution time for evaluate_model: 41.69 seconds
+2024-10-25 17:40:08,525 - INFO - Training and validation loss plot saved to ./figures\training_loss_20241025_174007.png
+2024-10-25 17:40:08,526 - INFO - Total script execution time: 53.21 seconds

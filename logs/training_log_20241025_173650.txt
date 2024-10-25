@@ -1,0 +1,32 @@
+2024-10-25 17:36:50,421 - INFO - Log file created at: ./logs\training_log_20241025_173650.txt
+2024-10-25 17:36:50,421 - INFO - Running with configuration: minimal_test_20241025_173650
+2024-10-25 17:36:50,421 - INFO - Using device: cuda
+2024-10-25 17:36:50,422 - INFO - Loading model and tokenizer...
+2024-10-25 17:36:50,823 - INFO - Training model from scratch...
+2024-10-25 17:36:52,221 - INFO - Execution time for load_or_train_model_and_tokenizer: 1.80 seconds
+2024-10-25 17:36:52,222 - INFO - Loading dataset...
+2024-10-25 17:36:53,282 - INFO - Looking for cached dataset at: ./cache\tokenized_dataset_100.arrow
+2024-10-25 17:36:53,283 - INFO - No cache found. Processing dataset...
+2024-10-25 17:36:53,298 - INFO - Available column names: ['Week', 'Date', 'Opponent', 'Result', 'Attendance']
+2024-10-25 17:36:53,298 - INFO - Tokenizing dataset...
+2024-10-25 17:36:58,632 - INFO - Saving processed dataset to cache: ./cache\tokenized_dataset_100.arrow
+2024-10-25 17:36:58,738 - INFO - Dataset cached successfully!
+2024-10-25 17:36:58,750 - INFO - Execution time for load_and_preprocess_dataset: 6.53 seconds
+2024-10-25 17:36:58,751 - INFO - Starting epoch 1/1...
+2024-10-25 17:37:05,290 - INFO - Epoch 1 completed. Avg train loss: 6.2735
+2024-10-25 17:37:05,677 - INFO - Model saved to directory.
+2024-10-25 17:37:05,677 - INFO - Checkpoint saved for epoch 1
+2024-10-25 17:37:05,678 - INFO - Execution time for train_model: 6.93 seconds
+2024-10-25 17:37:06,129 - INFO - Model saved to directory.
+2024-10-25 17:37:06,129 - INFO - Model saved successfully.
+2024-10-25 17:37:06,130 - INFO - Evaluating model...
+2024-10-25 17:37:07,446 - INFO - Evaluation progress: 0%
+2024-10-25 17:37:14,944 - INFO - Evaluation progress: 19%
+2024-10-25 17:37:23,452 - INFO - Evaluation progress: 38%
+2024-10-25 17:37:30,411 - INFO - Evaluation progress: 56%
+2024-10-25 17:37:40,093 - INFO - Evaluation progress: 75%
+2024-10-25 17:37:49,193 - INFO - Evaluation progress: 94%
+2024-10-25 17:37:49,874 - INFO - Evaluation complete.
+2024-10-25 17:37:49,875 - INFO - Execution time for evaluate_model: 43.75 seconds
+2024-10-25 17:37:52,146 - INFO - Training and validation loss plot saved to ./figures\training_loss_20241025_173750.png
+2024-10-25 17:37:52,151 - INFO - Total script execution time: 61.73 seconds
