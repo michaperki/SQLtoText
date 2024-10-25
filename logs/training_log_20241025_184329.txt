@@ -1,0 +1,27 @@
+2024-10-25 18:43:29,729 - INFO - Log file created at: ./logs\training_log_20241025_184329.txt
+2024-10-25 18:43:29,730 - INFO - Running with configuration: run_20241025_184329
+2024-10-25 18:43:29,731 - INFO - Using device: cuda
+2024-10-25 18:43:29,731 - INFO - Loading model and tokenizer...
+2024-10-25 18:43:30,436 - INFO - Loading model from saved checkpoint...
+2024-10-25 18:43:31,117 - INFO - Execution time for load_or_train_model_and_tokenizer: 1.39 seconds
+2024-10-25 18:43:31,117 - INFO - Loading dataset...
+2024-10-25 18:43:32,226 - INFO - Looking for cached dataset at: ./cache\tokenized_dataset_3000.arrow
+2024-10-25 18:43:32,226 - INFO - Loading tokenized dataset from cache...
+2024-10-25 18:43:32,272 - INFO - Successfully loaded from cache!
+2024-10-25 18:43:32,275 - INFO - Execution time for load_and_preprocess_dataset: 1.16 seconds
+2024-10-25 18:43:32,277 - INFO - Resuming training from epoch 11
+2024-10-25 18:43:32,277 - INFO - Model already trained for requested number of epochs.
+2024-10-25 18:43:32,277 - INFO - Execution time for train_model: 0.00 seconds
+2024-10-25 18:43:32,674 - INFO - Model saved to directory.
+2024-10-25 18:43:32,675 - INFO - Model saved successfully.
+2024-10-25 18:43:32,677 - INFO - Evaluating model...
+2024-10-25 18:43:34,334 - INFO - Evaluation progress: 0%
+2024-10-25 18:43:47,944 - INFO - Evaluation progress: 19%
+2024-10-25 18:44:03,494 - INFO - Evaluation progress: 38%
+2024-10-25 18:44:17,485 - INFO - Evaluation progress: 57%
+2024-10-25 18:44:32,923 - INFO - Evaluation progress: 76%
+2024-10-25 18:44:48,928 - INFO - Evaluation progress: 95%
+2024-10-25 18:44:50,804 - INFO - Evaluation complete.
+2024-10-25 18:44:50,805 - INFO - Execution time for evaluate_model: 78.13 seconds
+2024-10-25 18:44:52,028 - INFO - Training and validation loss plot saved to ./figures\training_loss_20241025_184451.png
+2024-10-25 18:44:52,029 - INFO - Total script execution time: 82.30 seconds

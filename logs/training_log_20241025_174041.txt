@@ -21,3 +21,46 @@
 2024-10-25 17:51:11,377 - INFO - Model saved to directory.
 2024-10-25 17:51:11,378 - INFO - Checkpoint saved for epoch 2
 2024-10-25 17:51:11,378 - INFO - Starting epoch 3/10...
+2024-10-25 17:56:17,855 - INFO - Epoch 3 completed. Avg train loss: 2.3234
+2024-10-25 17:56:18,212 - INFO - Model saved to directory.
+2024-10-25 17:56:18,212 - INFO - Checkpoint saved for epoch 3
+2024-10-25 17:56:18,212 - INFO - Starting epoch 4/10...
+2024-10-25 18:01:23,728 - INFO - Epoch 4 completed. Avg train loss: 2.1242
+2024-10-25 18:01:24,279 - INFO - Model saved to directory.
+2024-10-25 18:01:24,284 - INFO - Checkpoint saved for epoch 4
+2024-10-25 18:01:24,284 - INFO - Starting epoch 5/10...
+2024-10-25 18:06:29,421 - INFO - Epoch 5 completed. Avg train loss: 1.9739
+2024-10-25 18:06:29,799 - INFO - Model saved to directory.
+2024-10-25 18:06:29,799 - INFO - Checkpoint saved for epoch 5
+2024-10-25 18:06:29,799 - INFO - Starting epoch 6/10...
+2024-10-25 18:11:35,305 - INFO - Epoch 6 completed. Avg train loss: 1.8853
+2024-10-25 18:11:35,644 - INFO - Model saved to directory.
+2024-10-25 18:11:35,647 - INFO - Checkpoint saved for epoch 6
+2024-10-25 18:11:35,648 - INFO - Starting epoch 7/10...
+2024-10-25 18:22:01,325 - INFO - Epoch 7 completed. Avg train loss: 1.8320
+2024-10-25 18:22:01,699 - INFO - Model saved to directory.
+2024-10-25 18:22:01,700 - INFO - Checkpoint saved for epoch 7
+2024-10-25 18:22:01,700 - INFO - Starting epoch 8/10...
+2024-10-25 18:27:07,042 - INFO - Epoch 8 completed. Avg train loss: 1.7977
+2024-10-25 18:27:07,641 - INFO - Model saved to directory.
+2024-10-25 18:27:07,643 - INFO - Checkpoint saved for epoch 8
+2024-10-25 18:27:07,644 - INFO - Starting epoch 9/10...
+2024-10-25 18:32:12,666 - INFO - Epoch 9 completed. Avg train loss: 1.7630
+2024-10-25 18:32:13,061 - INFO - Model saved to directory.
+2024-10-25 18:32:13,062 - INFO - Checkpoint saved for epoch 9
+2024-10-25 18:32:13,062 - INFO - Starting epoch 10/10...
+2024-10-25 18:37:18,266 - INFO - Epoch 10 completed. Avg train loss: 1.7400
+2024-10-25 18:37:18,622 - INFO - Model saved to directory.
+2024-10-25 18:37:18,623 - INFO - Checkpoint saved for epoch 10
+2024-10-25 18:37:18,626 - INFO - Execution time for train_model: 3383.76 seconds
+2024-10-25 18:37:19,026 - INFO - Model saved to directory.
+2024-10-25 18:37:19,026 - INFO - Model saved successfully.
+2024-10-25 18:37:19,027 - INFO - Evaluating model...
+2024-10-25 18:37:20,712 - INFO - Evaluation progress: 0%
+2024-10-25 18:37:36,003 - INFO - Evaluation progress: 19%
+2024-10-25 18:37:52,890 - INFO - Evaluation progress: 38%
+2024-10-25 18:38:08,101 - INFO - Evaluation progress: 57%
+2024-10-25 18:38:24,456 - INFO - Evaluation progress: 76%
+2024-10-25 18:38:40,718 - INFO - Evaluation progress: 95%
+2024-10-25 18:38:42,614 - INFO - Evaluation complete.
+2024-10-25 18:38:42,615 - INFO - Execution time for evaluate_model: 83.59 seconds

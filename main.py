@@ -34,7 +34,7 @@ production_config = {
     "model_dir": "./model",
     "logging_level": logging.INFO,
     "warmup_steps": 500,
-    "reuse_model": False,
+    "reuse_model": True,
     "run_name": f"run_{time.strftime('%Y%m%d_%H%M%S')}",
     "figures_dir": "./figures",
     "logs_dir": "./logs",      # Directory for saving log files
@@ -83,36 +83,31 @@ def save_run_data(config, train_losses, final_val_loss):
 def plot_run_data(current_run, train_losses, final_val_loss):
     """Plots training losses and validation loss for the current run and compares with previous runs."""
     plt.figure(figsize=(10, 6))
-    epochs = range(1, len(train_losses) + 1)
+    current_epochs = range(1, len(train_losses) + 1)
 
     # Plot current run's training loss
-    plt.plot(epochs, train_losses, 'b-', label=f"{current_run} - Train Loss")
-
-    # Plot final validation loss point
+    plt.plot(current_epochs, train_losses, 'b-', label=f"{current_run} - Train Loss")
     plt.plot(len(train_losses), final_val_loss, 'ro', label=f"{current_run} - Final Val Loss")
 
-    # Load and plot data from previous runs
+    # Load and plot data from previous runs with matching epochs only
     if os.path.exists(config["run_data_path"]):
         with open(config["run_data_path"], "r") as file:
             data = json.load(file)
             for run in data:
-                past_train_losses = run["train_losses"]
-                past_val_loss = run["final_val_loss"]
-                run_name = run["config"]["run_name"]
+                # Only plot runs with same number of epochs
+                if len(run["train_losses"]) == len(train_losses):
+                    past_train_losses = run["train_losses"]
+                    past_val_loss = run["final_val_loss"]
+                    run_name = run["config"]["run_name"]
 
-                # Plot past training losses with different line styles
-                plt.plot(epochs, past_train_losses, linestyle='--', alpha=0.5,
-                        label=f"{run_name} - Train Loss")
-
-                # Plot past validation loss points
-                plt.plot(len(past_train_losses), past_val_loss, 'o', alpha=0.5,
-                        label=f"{run_name} - Final Val Loss")
+                    plt.plot(current_epochs, past_train_losses, linestyle='--', alpha=0.5,
+                            label=f"{run_name} - Train Loss")
+                    plt.plot(len(past_train_losses), past_val_loss, 'o', alpha=0.5,
+                            label=f"{run_name} - Final Val Loss")
 
     plt.xlabel("Epochs")
     plt.ylabel("Loss")
     plt.title("Training and Validation Losses Across Runs")
-
-    # Adjust legend to be outside the plot to avoid overcrowding
     plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
 
     # Create figures directory if it doesn't exist
@@ -238,9 +233,33 @@ def collate_fn(batch):
 def train_model(model, optimizer, scheduler, train_dataloader):
     """Training loop that tracks and returns training loss per epoch."""
     train_losses = []
+    start_epoch = 0
 
-    # Save checkpoint after each epoch
-    for epoch in range(config["epochs"]):
+    # Load previous training progress if it exists
+    if config["reuse_model"] and os.path.exists(config["run_data_path"]):
+        try:
+            with open(config["run_data_path"], "r") as file:
+                data = json.load(file)
+                # Find the last run with matching configuration
+                for run in reversed(data):
+                    if run["config"]["model_name"] == config["model_name"] and \
+                       run["config"]["sample_size"] == config["sample_size"]:
+                        train_losses = run["train_losses"]
+                        start_epoch = len(train_losses)
+                        logger.info(f"Resuming training from epoch {start_epoch + 1}")
+                        break
+        except Exception as e:
+            logger.warning(f"Could not load previous training progress: {e}")
+            train_losses = []
+            start_epoch = 0
+
+    # Skip training if we've already completed all epochs
+    if start_epoch >= config["epochs"]:
+        logger.info("Model already trained for requested number of epochs.")
+        return train_losses
+
+    # Continue training from last epoch
+    for epoch in range(start_epoch, config["epochs"]):
         logger.info(f"Starting epoch {epoch + 1}/{config['epochs']}...")
         model.train()
         epoch_loss = 0
@@ -360,20 +379,25 @@ if __name__ == "__main__":
     eval_dataloader = DataLoader(tokenized_dataset["validation"], batch_size=config["batch_size"], collate_fn=collate_fn)
 
     optimizer = AdamW(model.parameters(), lr=config["learning_rate"])
-    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=config["warmup_steps"], num_training_steps=len(train_dataloader) * config["epochs"])
+    scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=config["warmup_steps"],
+                                              num_training_steps=len(train_dataloader) * config["epochs"])
 
-    # Train model
+    # Train model if needed
     train_losses = train_model(model, optimizer, scheduler, train_dataloader)
 
-    # Save model after training
-    save_model(model)
-    logger.info("Model saved successfully.")
+    # Only evaluate and save if training occurred
+    if len(train_losses) > 0:
+        # Save model after training
+        save_model(model)
+        logger.info("Model saved successfully.")
 
-    # Evaluate model
-    final_val_loss = evaluate_model(model, eval_dataloader, column_names, tokenized_dataset)
+        # Evaluate model
+        final_val_loss = evaluate_model(model, eval_dataloader, column_names, tokenized_dataset)
 
-    # Save run data and plot comparisons
-    save_run_data(config, train_losses, final_val_loss)
-    plot_run_data(config["run_name"], train_losses, final_val_loss)
+        # Save run data and plot comparisons
+        save_run_data(config, train_losses, final_val_loss)
+        plot_run_data(config["run_name"], train_losses, final_val_loss)
+    else:
+        logger.info("No additional training needed - model already trained for requested epochs")
 
     logger.info(f"Total script execution time: {time.time() - start_time:.2f} seconds")

@@ -232,11 +232,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - WikiSQL dataset
 - PyTorch team
 
-## Support
-
-For issues and questions:
-1. Check the troubleshooting section
-2. Open an issue on GitHub
-3. Contact the maintainers
-
 ---
