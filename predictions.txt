@@ -1,150 +1,300 @@
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "yes" AND Attendance = "plugin"
-Generated Question: What is the number of times a plug-in has a yes and a plug-in?
+Generated Question: What is PlugIn, when Yes is used and when Plugin is used?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "new orleans saints"
-Generated Question: What is the number of games for the new orleans saints?
+Generated Question: What is the name of the team that plays for the new orleans saints?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "5"
-Generated Question: What is the number of events with a score greater than 5?
+Generated Question: What is the total number of participants when there are 5 seats?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "south melbourne"
-Generated Question: What is the location of south melbourne?
+Generated Question: What's the name of the city with a suburb of south melbourne?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "304.06"
-Generated Question: 304.06
+Generated Question: What is the highest number with a time of 304.06?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT *
-Generated Question: SELECT *
+Generated Question: What is the earliest date?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "buffalo"
-Generated Question: What is the buffalo number for?
+Generated Question: What is the number of votes for buffalo?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "junction oval"
-Generated Question: Where is the intersection oval?
+Generated Question: What is the distance between the intersection oval and the oval?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "philippines" AND Opponent != "0"
-Generated Question: What is the number of games with a total score of "philippines" and an outcome less than 0?
+Generated Question: What is the lowest score when the country is the philippines, and the score is less than 0?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "10 april"
-Generated Question: Where april was 10 is the date of the election?
+Generated Question: What is the date for 10 april?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT *
-Generated Question: Rephrase this SQL query into a natural language
+Generated Question: What is the lowest number of points when more than a single point is used?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "70-68-70-68=276"
-Generated Question: What is the average age for 70-68-70-68=276?
+Generated Question: What is the average number of votes when the total votes are 70-68-70-68=276?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "Tolono, Illinois"
-Generated Question: What is the Count for Tolono, Illinois?
+Generated Question: What is the name of the town that is Tolono, Illinois?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result != "1" AND Opponent = "2010"
-Generated Question: Where Result != "1" and Opponent = "2010"
+Generated Question: What is the highest number of wins in 2010 when a score is less than 1?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = "2012–13"
-Generated Question: What is the total number of days with a date of 2012–13?
+Generated Question: What is the average number of votes for the year 2012–13?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "france" AND Opponent = "accounting" AND Result != "6"
-Generated Question: What is the number of votes with a value less than 6?
+Generated Question: What is the result for France, with a score smaller than 6 and accounting as the opponent?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent != "2000" AND Week = "peeking heights"
-Generated Question: What was the average number of wins for peeking heights in 2000?
+Generated Question: What's the number of points for peeking heights when the score is less than 2000?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = "elkjs"
-Generated Question: elkjs
+Generated Question: What is the name of elkjs?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week != "17"
-Generated Question: What is the average number of days with a week greater than 17?
+Generated Question: What is the average number of days for a week larger than 17?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "50 films 50 televised"
-Generated Question: What was the total number of films 50 televised?
+Generated Question: What is the average number of films 50 televised?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "86-96"
-Generated Question: What is the date of 86-96?
+Generated Question: When the score was 86-96, what was the result?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "mp4/1c"
-Generated Question: mp4/1c
+Generated Question: What is the format of MP4/1c?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT *
-Generated Question: What is the lowest number of SELECTs?
+Generated Question: What's the smallest number of characters?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "amazing fantasy #15"
-Generated Question: What was the result of amazing fantasy #15?
+Generated Question: What is the title of the episode titled Amazing Fantasy #15"?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent != "108,172" AND Result != "107,589"
-Generated Question: Where Opponent != 108,172 and Result != 107,589
+Generated Question: What is the total number of votes for a vote larger than 108,172 and more than 107,589?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = "june 19, 2004"
-Generated Question: What is the date of june 19, 2004?
+Generated Question: What is the date of the event that took place on june 19, 2004?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "30"
-Generated Question: When the attendance is 30, what is the total number of people who have a minimum of 30 members?
+Generated Question: What's the highest number of people with a attendance of 30?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = "112"
-Generated Question: What is the average number of days when there is less than 112 days?
+Generated Question: What is the total number of units when the count is 112?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = ""a lost puppy dog""
-Generated Question: a lost puppy dog
+Generated Question: What was the name of the episode titled "a lost puppy dog"?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT *
-Generated Question: Rephrase this SQL query into a natural language
+Generated Question: What is the number of rows?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "3.6%"
-Generated Question: What is the ratio of 3.6% to 3.68%?
+Generated Question: What is the highest number of points for a score of 3.6%?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "a = 3"
-Generated Question: When a = 3 is the number of seats, what is the total number of seats?
+Generated Question: What is the total number of people with a = 3 births?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "icabad crane"
-Generated Question: icabad crane
+Generated Question: What is the type of crane that has icabad crane?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "4–1"
-Generated Question: What is the percentage of a test with a score of 4–1?
+Generated Question: What is the score when the score is 4–1?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "walmart"
-Generated Question: When WalMart is the location of the store, which is walmart?
+Generated Question: What is WalMart's location?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "Pohang Steelyard"
-Generated Question: Pohang Steelyard
+Generated Question: What was the location of the Pohang Steelyard?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "66-74-76=216"
-Generated Question: 66-74-76=216
+Generated Question: What is the average score for a game with a score of 66-74-76=216?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "cleveland indians" AND Result != "1931"
-Generated Question: What is the total number of cleveland indians with a result greater than 1931?
+Generated Question: What is the result of the game with cleveland indians and a record smaller than 1931?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week != "2" AND Result = "running back"
-Generated Question: Where Week != "2" and Result = "running back"
+Generated Question: What is the score of a game with less than 2 points and a running back?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "0" AND Attendance = "0" AND Week = "pahang fa"
-Generated Question: What is the highest number of times a pahang fa is more than 0 and less than 0?
+Generated Question: What is the total number of days in Pahang fa, with 0 attendance and 0 dates?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result != "66" AND Week != "3" AND Attendance = "3rd"
-Generated Question: When Result != "66" and Week != "3" and Attendance = "3rd"
+Generated Question: What is the average number of points for a position larger than 66, a level smaller than 3, and a ranking of 3rd?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "4" AND Attendance != "44.62"
-Generated Question: When Opponent is 4" and Attendance is less than 44.62, what is the result?
+Generated Question: What is the average score when the number of votes is 4 and the total attendance is less than 44.62?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "Karen Felix and Don Woodard"
-Generated Question: What is the total number of events for Karen Felix and Don Woodard?
+Generated Question: What was the name of the show with Karen Felix and Don Woodard?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "Indian Wells, United States (2)"
-Generated Question: Indian Wells, United States (2)
+Generated Question: What is the name of the city in Indian Wells, United States (2)?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "4 - 4"
-Generated Question: What is the number of rows with a value of 4 - 4"?
+Generated Question: What is the score for a game with 4 - 4 results?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "exeter city"
-Generated Question: What is the number of times that Exter City has an exeter city?
+Generated Question: What is the home page for exeter city?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result != "9.8" AND Attendance = "19.2"
-Generated Question: Where Result != 9.8 and Attendance = 19.2?
+Generated Question: What is the Average for a Score less than 9,8 and a Attendance greater than 19,2?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "1/13/1974"
 Generated Question: What is the date of 1/13/1974?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "73-65=138"
-Generated Question: What is the result of 73-65=138?
+Generated Question: What is the Average of the game with a score of 73-65=138?
 
 SQL: Rephrase this SQL query into a natural language question: SELECT *
-Generated Question: Rephrase this SQL query into a natural language
+Generated Question: What is the name of the page?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = "britton johnsen"
+Generated Question: What is the name of the actor britton johnsen?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "documentaries"
+Generated Question: What is the type of documentaries?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "junior"
+Generated Question: What is the average score for a student who is "junior"?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "kansas city chiefs" AND Attendance != "26,469"
+Generated Question: What is the total number of kansas city chiefs with an attendance larger than 26,469?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week != "31"
+Generated Question: What is the total number of games with a score larger than 31?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "290"
+Generated Question: What is the average number of totals when there are more than 290?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "3rd" AND Result = "123.628"
+Generated Question: What's the result when 3rd place is 123.628?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "March 1945"
+Generated Question: What is the date of March 1945?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "october 22, 2013" AND Opponent != "2"
+Generated Question: What is the lowest number of victories for october 22, 2013 and more than 2 wins?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT *
+Generated Question: What is the result of the study?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "baltimore ravens"
+Generated Question: What's the score when the opponent is the baltimore ravens?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "9.4%"
+Generated Question: What is the average number of people with an attendance of 9.4%?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "haiti" AND Attendance = "18.3601°n 71.9764°w"
+Generated Question: What is the distance between haiti and the city of haiti, with a distance of 18.3601°n 71.9764°w?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "8"
+Generated Question: What is the total number of people with 8 seats?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent != "170" AND Date = "56 kg" AND Result != "145"
+Generated Question: What is the lowest weight with a weight larger than 170, 56 kg, and a Weight smaller than 145?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = ""Sound and Vision""
+Generated Question: What is the score for "Sound and Vision"?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT *
+Generated Question: What is the name of the page?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "cédric pioline"
+Generated Question: What is the name of the artist who was created by cédric pioline?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week != "2000"
+Generated Question: What's the average number of days that have a year smaller than 2000?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "United Nations Observer Mission Uganda-Rwanda"
+Generated Question: What is the status of the United Nations Observer Mission Uganda-Rwanda?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance != "22,604"
+Generated Question: What is the total number of visitors with an attendance larger than 22,604?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "87-92"
+Generated Question: What is the result of the game with a score of 87-92?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = "2"
+Generated Question: What's the average number of votes for Week 2, when Number is "2"?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "apbo 0280"
+Generated Question: What is the number of apbo 0280?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "bi-lo center" AND Attendance != "2000"
+Generated Question: What is the highest level of attendance at a bi-lo center with more than 2000 visitors?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = "Hawaii"
+Generated Question: What is the name of the state that is Hawaii?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "71"
+Generated Question: What is the highest number of points for a score of 71?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = "january 10"
+Generated Question: What date was january 10?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date != "9" AND Result = "buck mystrom"
+Generated Question: What is Buck Mystrom's score, when the score is less than 9, and when the score is less than 9?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "freshman" AND Opponent = "6–4"
+Generated Question: What is the score when the score is 6–4 for freshmen and the score is 6–4 for opponents?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date != "18,073" AND Opponent = "northwestern"
+Generated Question: What is the total number of points when the total number of points is less than 18,073 and the region is northwestern?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = "january 15"
+Generated Question: What is the date of january 15?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date != "20" AND Result != "1238" AND Opponent = "45"
+Generated Question: What is the total number of rounds with a score smaller than 20 and more than 1238 votes, and 45 votes?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "Wilfrid Laurier"
+Generated Question: What is the number of votes cast by Wilfrid Laurier?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "2006 fifa world cup qualification" AND Date = "alamodome, san antonio,
+Generated Question: What is the record of the 2006 FIFA World Cup Qualification held at Alamodome, San Antonio, CA?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = "Oral Roberts"
+Generated Question: What is the name of the actor who plays Oral Roberts?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "yes" AND Date = "human"
+Generated Question: What is the highest number of people with a yes vote, and a date of human?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "l 6–0"
+Generated Question: What was the score when the score was l 6–0?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "partizan belgrade" AND Date = "nikola pekovi" AND Week != "4"
+Generated Question: What is the average number of points when the score is less than 4 and the result is Partizan Belgrade, with nikola pekovi as the winner, and a total smaller than 4?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Opponent = "US Open (2)"
+Generated Question: What is the name of the event with title US Open (2)?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "muljadi"
+Generated Question: What is the name of the town with muljadi?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "1965" AND Opponent != "7103"
+Generated Question: What's the number of points when the score is less than 7103 and the time is 1963?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Result = "7.6 (48)"
+Generated Question: What was the average number of votes when the vote was 7.6 (48)?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Week = "Georgia 1"
+Generated Question: What is the number of votes for georgia 1?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "aaaa" AND Result != "1,275" AND Opponent = "spartans"
+Generated Question: What is the number of votes when the attendance is aaaa, the result is less than 1,275, and the opponent is spartans?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "gp2 series"
+Generated Question: What is the episode number of gp2 series?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "b" AND Result = "ferrari 050 ferrari 051"
+Generated Question: What is the weight of the car with a speed of b and a torque of ferrari 050 ferrari 051?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "private" AND Date = "mountaineers"
+Generated Question: What is the name of the event when the date is "mountaineers" and the private event is "private"?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Attendance = "158" AND Result != "52"
+Generated Question: What is the total number of games when there are more than 52 matches and 158 attendances?
+
+SQL: Rephrase this SQL query into a natural language question: SELECT * WHERE Date = "21"
+Generated Question: What is the average number of points when there are 21 points?
 
